@@ -6,6 +6,10 @@ public class Main {
 		System.out.println("I am yujin and I am a CEO") ;
 		int hi ; 
 		int mid ;
+
+		
+		// freshman
+		System.out.println("This section made by a freshman") ;
 	}
 
 }
